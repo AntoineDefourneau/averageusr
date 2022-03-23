@@ -6,10 +6,8 @@
 [Average User](https://twitter.com/AverageUsr_) est un bot Twitter qui tweet toutes les 10 minutes un tweet ayant pour but de se rapprocher de ce qu'un utiliateur moyen pourrait poster.
 A l'heure actuelle, les phrases générées sont simples, elle ne se composent que d'un sujet d'un verbe et d'un complément.
 J'ai décidé d'apporter des améliorations à ce programme de génération de phrase en faisant en sorte que les phrases générées soient davantage complexes.
-# Idées d'application
-Cette méthode de callback pourait être utilisée pour par exemple :
-* Jouer un son de touche de clavier à chaque lettre
-* Faire des modifications esthétiques à chaque caractère tapé, comme changer la couleur du texte
+# TODO
+Pour utiliser ce bot, il vous faut installer la librairie [TwitterOAuth](https://twitteroauth.com/)
 # Utilisation
 Importer le fichier typed.js dans le document HTML utilisé.
 
