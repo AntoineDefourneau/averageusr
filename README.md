@@ -19,9 +19,8 @@ Il faut du texte à trou, à remplir avec différentes balises en fonction de ce
 * %possessive_plural_noun% -> Nom au pluriel avec possession (My cats, our keys, their accounts...)
 * %indirect_singular_noun% -> Nom indirect au singulier (a cat, a baby, a noun, Netflix, JK Rowling...)
 * %indirect_plural_noun% -> Nom indirect au singulier (French people,)
-
-%infinitif_verb% -> Verbe à l'infinitif
-%participe_passé_verb% -> Participe passé d'un verbe
+* %infinitif_verb% -> Verbe à l'infinitif (eat, like, come)
+* %participe_passé_verb% -> Participe passé d'un verbe (eaten, liked, came)
 
 # TODO
 Pour utiliser ce bot, il vous faut installer la librairie [TwitterOAuth](https://twitteroauth.com/).
