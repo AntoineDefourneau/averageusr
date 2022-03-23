@@ -3,7 +3,7 @@
 Average User twitter bot
 
 # Description
-![Average User](https://twitter.com/AverageUsr_) est un bot Twitter qui tweet toutes les 10 minutes un tweet ayant pour but de se rapprocher de ce qu'un utiliateur moyen pourrait poster.
+[Average User](https://twitter.com/AverageUsr_) est un bot Twitter qui tweet toutes les 10 minutes un tweet ayant pour but de se rapprocher de ce qu'un utiliateur moyen pourrait poster.
 A l'heure actuelle, les phrases générées sont simples, elle ne se composent que d'un sujet d'un verbe et d'un complément.
 J'ai décidé d'apporter des améliorations à ce programme de génération de phrase en faisant en sorte que les phrases générées soient davantage complexes.
 # Idées d'application
