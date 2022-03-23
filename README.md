@@ -3,12 +3,12 @@
 ###### Twitter Bot that tweets random sentances like an average user.
 
 # Description
-[Average User](https://twitter.com/AverageUsr_) est un bot Twitter qui tweet toutes les 10 minutes une phrase ayant pour but de se rapprocher de ce qu'un utiliateur moyen pourrait poster.
-A l'heure actuelle, les phrases générées sont simples, elle ne se composent que d'un sujet d'un verbe et d'un complément.
-J'ai décidé d'apporter des améliorations à ce programme de génération de phrase en faisant en sorte que les phrases générées soient davantage complexes.
+[Average User](https://twitter.com/AverageUsr_) est un bot Twitter qui tweet toutes les 10 minutes une phrase ayant pour but de se rapprocher de ce qu'un utilisateur moyen pourrait poster.
+A l'heure actuelle, les phrases générées sont simples, elles ne se composent que d'un sujet d'un verbe et d'un complément.
+J'ai décidé d'apporter des améliorations à ce programme de génération de phrases en faisant en sorte que les phrases générées soient davantage complexes.
 
 Tout est personnalisable dans les fichiers json.
-Il faut du texte à trou, à remplir avec différentes balises en fonction de ce dont chaque élement doit être remplacé.
+Il faut du texte à trou, à remplir avec différentes balises en fonction de ce que chacun des élément doit être remplacé.
 
 #### Balises
 * %noun% -> N'importe quel nom
