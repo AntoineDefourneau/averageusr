@@ -15,7 +15,7 @@ De plus, il vous faut un compte Twitter développeur. Les clés d'accès sont à
 # Utilisation
 Dans le fichier generate.php, la fonction *generateSentence()* génère une phrase.
 
-# Exemples
+# Exemples de phrases générées
 Netflix was always the second best, and dare to say i'm wrong!
 
 A great silence would kindly inquire something about you, coming from children tales, it doesn't surprise me AT ALL!!
