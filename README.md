@@ -16,14 +16,24 @@ De plus, il vous faut un compte Twitter développeur. Les clés d'accès sont à
 Dans le fichier generate.php, la fonction *generateSentence()* génère une phrase.
 
 # Exemples
-Harry Potter does not make any sense.
+Netflix was always the second best, and dare to say i'm wrong!
 
-Nihilism should be banned.
+A great silence would kindly inquire something about you, coming from children tales, it doesn't surprise me AT ALL!!
 
-The other side will take you to places you never expected to visit!
+A classical composition likes to take a walk with nothing of importance, at least that's what I thought until I loved fashion for the first time.
 
-Wondrous awe comes asking for a setback of the heart.
+A principal idea is still not very coherent, nothingness often say that to me, and it's right!
 
-A great silence is a storyteller without equal.
+Tranquility takes the world for granted, simply because your cars spy regularly.
 
-A setback of the heart should be banned.
+Love shoots my parents with a water pistol, at least that's what I thought until I washed passion or serendipity for the first time.
+
+Stew and rum jumps both ways, mainly because of those who like to have apples!!
+
+Clear water is not yet ready to die, the legend of the raven's roar often say that to me, and it's right!
+
+The light at the end of the tunnel makes people shiver, mainly because of those who like to have nights of loneliness!!
+
+A passionate evening is a storyteller without equal, and dare to say i'm wrong!
+
+Stew and rum is often one floor above video games, coming from kings, it doesn't surprise me AT ALL!!
