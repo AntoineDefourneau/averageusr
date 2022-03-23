@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/71023508/159785625-87a71db1-483e-4d28-8b7c-ad592d6f110f.png)
 
-Average User twitter bot
+###### Twitter Bot that tweets random sentances like an average user
 
 # Description
 [Average User](https://twitter.com/AverageUsr_) est un bot Twitter qui tweet toutes les 10 minutes un tweet ayant pour but de se rapprocher de ce qu'un utiliateur moyen pourrait poster.
