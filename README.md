@@ -22,7 +22,7 @@ Il faut du texte à trou, à remplir avec différentes balises en fonction de ce
 * %infinitif_verb% -> Verbe à l'infinitif (eat, like, come)
 * %participe_passé_verb% -> Participe passé d'un verbe (eaten, liked, came)
 
-# TODO
+# Pour l'utiliser
 Pour utiliser ce bot, il vous faut installer la librairie [TwitterOAuth](https://twitteroauth.com/).
 
 De plus, il vous faut un compte Twitter développeur. Les clés d'accès sont à mettre dans **keys.php**
