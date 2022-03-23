@@ -10,7 +10,7 @@ J'ai décidé d'apporter des améliorations à ce programme de génération de p
 Tout est personnalisable dans les fichiers json.
 Il faut du texte à trou, à remplir avec différentes balises en fonction de ce dont chaque élement doit être remplacé.
 
-###### Balises
+#### Balises
 %noun% -> N'importe quel nom
 %singular_noun% -> Nom au singulier général (My dad, a car...)
 %plural_noun% -> Nom au pluriel (Your parents, kids, the people...)
