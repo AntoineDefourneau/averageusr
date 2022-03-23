@@ -17,8 +17,13 @@ Dans le fichier generate.php, la fonction *generateSentence()* génère une phra
 
 # Exemples
 Harry Potter does not make any sense.
+
 Nihilism should be banned.
+
 The other side will take you to places you never expected to visit!
+
 Wondrous awe comes asking for a setback of the heart.
+
 A great silence is a storyteller without equal.
+
 A setback of the heart should be banned.
