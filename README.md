@@ -11,16 +11,14 @@ Tout est personnalisable dans les fichiers json.
 Il faut du texte à trou, à remplir avec différentes balises en fonction de ce dont chaque élement doit être remplacé.
 
 #### Balises
-%noun% -> N'importe quel nom
-%singular_noun% -> Nom au singulier général (My dad, a car...)
-%plural_noun% -> Nom au pluriel (Your parents, kids, the people...)
-%noun_be% -> Conjuge le verbre être avec un nom
-
-
-%possessive_singular_noun% -> Nom au singulier avec possession (My dad, your cat, their child...)
-%possessive_plural_noun% -> Nom au pluriel avec possession (My cats, our keys, their accounts...)
-%indirect_singular_noun% -> Nom indirect au singulier (a cat, a baby, a noun, Netflix, JK Rowling...)
-%indirect_plural_noun% -> Nom indirect au singulier (French people,)
+* %noun% -> N'importe quel nom
+* %singular_noun% -> Nom au singulier général (My dad, a car...)
+* %plural_noun% -> Nom au pluriel (Your parents, kids, the people...)
+* %noun_be% -> Conjuge le verbre être avec un nom
+* %possessive_singular_noun% -> Nom au singulier avec possession (My dad, your cat, their child...)
+* %possessive_plural_noun% -> Nom au pluriel avec possession (My cats, our keys, their accounts...)
+* %indirect_singular_noun% -> Nom indirect au singulier (a cat, a baby, a noun, Netflix, JK Rowling...)
+* %indirect_plural_noun% -> Nom indirect au singulier (French people,)
 
 %infinitif_verb% -> Verbe à l'infinitif
 %participe_passé_verb% -> Participe passé d'un verbe
