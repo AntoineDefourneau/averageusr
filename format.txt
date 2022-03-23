@@ -8,3 +8,6 @@
 %possessive_plural_noun% -> Nom au pluriel avec possession (My cats, our keys, their accounts...)
 %indirect_singular_noun% -> Nom indirect au singulier (a cat, a baby, a noun, Netflix, JK Rowling...)
 %indirect_plural_noun% -> Nom indirect au singulier (French people,)
+
+%infinitif_verb% -> Verbe à l'infinitif
+%participe_passé_verb% -> Participe passé d'un verbe
